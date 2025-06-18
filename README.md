@@ -2,7 +2,7 @@
 
 > Empowering deaf learners with real-time Sign Language translation, voice interaction, and AI tutoring using Indian Sign Language (ISL).
 
-![banner](image.jpg)
+![banner](image1.jpg)
 
 ---
 
