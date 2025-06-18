@@ -58,10 +58,10 @@ This project was developed for the [AWS Breaking Barriers Hackathon 2025](https:
 | Question                  | AI Response (ISL explanation)                               |
 |--------------------------|-------------------------------------------------------------|
 | How to sign “hello”?     | Salute starting from the forehead.                         |
-| What is the sign for “father”? | Thumb touches forehead with fingers spread.                |
+| How to sign  “father”? | Thumb touches forehead with fingers spread.                |
 | How to sign “thank you”? | Fingers at chin, move forward like blowing a kiss.         |
 | How to sign “red”?       | Brush index finger down lips.                              |
-| What is the ISL for “friend”? | Hook both index fingers together in both directions.      |
+| How to sign “friend”? | Hook both index fingers together in both directions.      |
 
 ---
 
@@ -71,14 +71,6 @@ This project was developed for the [AWS Breaking Barriers Hackathon 2025](https:
 - This project brings **accessible AI-powered translation**, **interactive voice tutors**, and **real-time gesture support** for ISL.
 - The modular system allows educators to expand phrases and personalize content.
 
----
 
-## 🧱 Architecture
 
-```mermaid
-graph TD
-A[User Input: Text/Voice/Webcam] --> B[Streamlit UI]
-B --> C[Amazon Q Logic (Simulated)]
-B --> D[Sign Video Renderer]
-B --> E[Gesture Classifier (TF + MediaPipe)]
-E --> F[Text & Voice Output Engine]
+
