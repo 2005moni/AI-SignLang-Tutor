@@ -72,6 +72,16 @@ This project was developed for the [AWS Breaking Barriers Hackathon 2025], where
 - This project brings **accessible AI-powered translation**, **interactive voice tutors**, and **real-time gesture support** for ISL.
 - The modular system allows educators to expand phrases and personalize content.
 
+  
+## 🧱 Architecture
+
+```mermaid
+graph TD
+A[User Input: Text/Voice/Webcam] --> B[Streamlit UI]
+B --> C[Amazon Q Logic (Simulated)]
+B --> D[Sign Video Renderer]
+B --> E[Gesture Classifier (TF + MediaPipe)]
+E --> F[Text & Voice Output Engine]
 
 
 
