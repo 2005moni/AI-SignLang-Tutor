@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+scikit-learn
+opencv-python
+opencv-contrib-python
+pyttsx3
+numpy
+Pillow
+sounddevice
+scipy
+SpeechRecognition
+mediapipe
