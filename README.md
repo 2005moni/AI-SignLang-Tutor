@@ -90,6 +90,7 @@ This application uses webcam, microphone, and MediaPipe-based gesture detection.
 git clone https://github.com/2005moni/AI-SignLang-Tutor.git
 
 cd AI-SignLang-Tutor
+```
 
 
 ## 2. Create and Activate Virtual Environment
@@ -104,22 +105,23 @@ venv\Scripts\activate
 
 # On macOS/Linux:
 source venv/bin/activate
+```
 
 
 ### 3. Install All Required Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 📌 If requirements.txt is missing, manually install:
 ```bash
 pip install streamlit tensorflow scikit-learn opencv-python opencv-contrib-python pyttsx3 numpy Pillow sounddevice scipy SpeechRecognition mediapipe
-
+```
 
 ### 4. Run the Application
 ```bash
 streamlit run app.py
-
-
+```
 ----
 
 ### 5. Notes for Best Experience
