@@ -14,6 +14,22 @@ This project was developed for the [AWS Breaking Barriers Hackathon 2025](https:
 
 ---
 
+### 🤖 Built with Amazon Q Developer
+This project was developed with the assistance of Amazon Q Developer in Visual Studio Code, part of AWS’s suite of generative AI tools.
+
+✨ How Amazon Q was used:
+✅ Generated logic for common ISL queries like greetings, numbers, family signs, etc.
+
+✅ Helped structure and refactor Python code across app.py and gesture modules
+
+✅ Assisted in debugging MediaPipe integration and AI voice feedback
+
+✅ Enhanced natural language explanations in the AI Tutor section
+
+By integrating Amazon Q Developer, this project showcases how AWS Generative AI tools can accelerate the development of inclusive, accessible, and educational AI applications.
+
+----
+
 ## 🧠 Key Features
 
 | Feature                         | Description                                                                 |
