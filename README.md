@@ -84,7 +84,7 @@ This application uses webcam, microphone, and MediaPipe-based gesture detection.
 
 ---
 
-### 📦 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/2005moni/AI-SignLang-Tutor.git
