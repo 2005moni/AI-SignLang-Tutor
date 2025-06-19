@@ -71,6 +71,52 @@ This project was developed for the [AWS Breaking Barriers Hackathon 2025](https:
 - This project brings **accessible AI-powered translation**, **interactive voice tutors**, and **real-time gesture support** for ISL.
 - The modular system allows educators to expand phrases and personalize content.
 
+---
+
+## 🛠️ How to Run Locally (Recommended Setup)
+
+This application uses webcam, microphone, and MediaPipe-based gesture detection. To run it successfully, follow these steps carefully:
+
+### ✅ Recommended Environment
+
+- **Python version:** `3.10.9`  
+  ⚠️ Required for compatibility with `mediapipe`, `opencv`, and `tensorflow`.
+
+---
+
+### 📦 1. Clone the Repository
+
+```bash
+git clone https://github.com/2005moni/AI-SignLang-Tutor.git
+cd AI-SignLang-Tutor
+
+## 2. Create and Activate Virtual Environment
+
+```bash
+# Create a virtual environment
+python -m venv venv
+
+# Activate the environment
+# On Windows:
+venv\Scripts\activate
+
+# On macOS/Linux:
+source venv/bin/activate
+
+
+### 3. Install All Required Dependencies
+
+pip install -r requirements.txt
+
+📌 If requirements.txt is missing, manually install:
+
+pip install streamlit tensorflow scikit-learn opencv-python opencv-contrib-python pyttsx3 numpy Pillow sounddevice scipy SpeechRecognition mediapipe
+
+
+### 4. Run the Application
+
+streamlit run app.py
+
 
 
 
