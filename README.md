@@ -64,7 +64,7 @@ By integrating Amazon Q Developer, this project showcases how AWS Generative AI 
 
 ## 🎥 Demo Video
 
-> 📽️ [Watch the 5-minute project demo on YouTube](https://www.youtube.com/...)  
+> 📽️ [Watch the 5-minute project demo on YouTube](https://youtu.be/2D60UQRZg20)  
 > 🔊 Covers UI flow, AWS logic, webcam-based gesture recognition, and accessibility
 
 ---
