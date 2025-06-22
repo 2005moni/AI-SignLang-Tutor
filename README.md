@@ -10,7 +10,7 @@
 
 **AI SignLang Tutor** is an educational tool built to help bridge communication gaps for the **deaf and hard-of-hearing community**. It translates between **text/voice and Indian Sign Language (ISL)** and includes a simulated **AI tutor** experience using **Amazon Q logic**, voice synthesis, and real-time gesture recognition.
 
-This project was developed for the [AWS Breaking Barriers Hackathon 2025](https://devpost.com/...), where the focus is on building **inclusive applications powered by AWS Generative AI + next-gen connectivity**.
+This project was developed for the **AWS Breaking Barriers Hackathon 2025**, where the focus is on building **inclusive applications powered by AWS Generative AI + next-gen connectivity**.
 
 ---
 
